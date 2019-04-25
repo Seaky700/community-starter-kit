@@ -18,3 +18,5 @@ There are many ways you can help us make this project better. Every repository i
 - **help-wanted**: F
 
 You can also help by translating documentation and reviewing open pull requests.
+
+Contribution guide
