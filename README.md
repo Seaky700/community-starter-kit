@@ -7,7 +7,6 @@ A GitHub App built with probot that celebrates new user activity within your rep
 
 ## What it does
 
-FEATURES PLACEHOLDER
 -Place A
 
 ## Getting started
