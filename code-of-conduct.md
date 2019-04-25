@@ -1,6 +1,4 @@
-CONTRIBUTOR CODE
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](code-of-conduct.md)
-# Contributor Covenant Code of Conduct
+# Contributor Covenant Code of Conduct[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](code-of-conduct.md)
 
 ## Our Pledge
 
